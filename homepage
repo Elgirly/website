@@ -7,7 +7,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Sport.AK</title>
+    <title>Husaso</title>
     <link href="http://fonts.googleapis.com/css?family=Roboto:300,400,500,700" rel="stylesheet" type="text/css">
     <link href="images/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
     <link href="css/akslider.css" rel="stylesheet" type="text/css" />
@@ -55,7 +55,7 @@
                 <nav style="margin: 0px;" class="tm-navbar uk-navbar" data-uk-sticky="">
                     <div class="uk-container uk-container-center">
                         <a class="tm-logo uk-float-left" href="index.html">
-                            <img src="images/logo-img.png" alt="logo" title="logo"> <span>Sport<em>.ak</em></span>
+                            <img src="images/logo-img.png" alt="logo" title="logo"> <span>Husaso<em></em></span>
                         </a>
 
                         <ul class="uk-navbar-nav uk-hidden-small">
